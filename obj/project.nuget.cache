@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IcR9LXj0OcPph5eUEeEi8FpcWtzDNCz92FNIthPjKuTebvNPkgBJiZcvubvNcXaA1gpkV8fEDpPnd7hoi6lqXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lavis\\source\\repos\\Lesson 1 Project First time\\Lesson 1 Project First time.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lavis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
